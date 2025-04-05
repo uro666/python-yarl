@@ -1,5 +1,5 @@
 %global debug_package %{nil}
-%global module yarl
+%define module yarl
 
 Name:		python-yarl
 Version:	1.18.3
